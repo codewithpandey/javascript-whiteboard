@@ -19,6 +19,8 @@ R is for red.
 
 O is for orange.
 
+W is for white, basically an eraser.
+
 Press to to add a text right where your cursor is.
 
 Press Z to open command pallete and use the following commands to draw shapes.
@@ -26,3 +28,5 @@ Press Z to open command pallete and use the following commands to draw shapes.
 sqr for Sqauare.
 rect for Rectangle.
 circ for circle(centering at the cursor).
+
+Press Delete key to clear the board.
