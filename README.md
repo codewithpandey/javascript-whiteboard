@@ -7,23 +7,23 @@ Start drawing wherever inside the box with golden border.
 
 Use these keyboard button to change the ink color:
 
-B is for black.
+ALT + B is for black.
 
-Y is for yellow, basically a highliter pen.
+ALT + Y is for yellow, basically a highliter pen.
 
-G is for green.
+ALT + G is for green.
 
-C is for cyan.
+ALT + C is for cyan.
 
-R is for red.
+ALT + R is for red.
 
-O is for orange.
+ALT + O is for orange.
 
-W is for white, basically an eraser.
+ALT + W is for white, basically an eraser.
 
-Press to to add a text right where your cursor is.
+Press ALT + T to to add a text right where your cursor is.
 
-Press Z to open command pallete and use the following commands to draw shapes.
+Press ALT + Z to open command pallete and use the following commands to draw shapes.
 
 sqr for Sqauare.
 rect for Rectangle.
